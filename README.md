@@ -10,3 +10,8 @@ Files uploaded:
 **Note**: The manuscript titled "groupTesting: An R package for group testing estimation" with this package is currently under review at Communications in Statistics - Simulation and Computation.
 
 
+Reference:
+
+Warasi, M. (2021+). groupTesting: An R package for group testing estimation. Under review.
+
+
