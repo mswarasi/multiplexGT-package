@@ -7,11 +7,10 @@ Files uploaded:
 2.	groupTesting_1.0.0  (binary package)
 3.	groupTesting_1.0.0.tar  (source package)
 
-**Note**: The manuscript titled "groupTesting: An R package for group testing estimation" with this package is currently under review at Communications in Statistics - Simulation and Computation.
 
 
 Reference:
 
-Warasi, M. (2021+). groupTesting: An R package for group testing estimation. Under review.
+Warasi, M. (2021+). groupTesting: An R package for group testing estimation. Under review at Communications in Statistics - Simulation and Computation.
 
 
